@@ -1,0 +1,16 @@
+body{
+    background: #333;
+    color: #fff;
+}
+
+a{
+    color: #fff;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline-block;
+}
